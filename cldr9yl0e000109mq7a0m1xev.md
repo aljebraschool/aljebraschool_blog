@@ -1,4 +1,4 @@
-# How to write basic Java application
+# How to write basic Java applications
 
 <mark>This is the first article in the series of write-ups that will be used to teach us java programming from the beginner level to the intermediate level of proficiency</mark>
 
