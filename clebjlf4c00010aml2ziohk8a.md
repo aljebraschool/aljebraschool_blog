@@ -167,4 +167,4 @@ Let's call it a day for now and continue in my next episode. kindly implement th
 * division
     
 
-I'll provide solutions to this question on my GitHub repo if requests are made. Contact me for corrections and advice via my email and don't for to subscribe to my newsletter for quick updates on my next episodes.
+I'll provide solutions to this question on my GitHub repo if requests are made. Contact me for corrections and advice via my email and don't to subscribe to my newsletter for quick updates on my next episodes.
