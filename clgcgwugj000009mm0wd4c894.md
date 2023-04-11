@@ -4,7 +4,7 @@ datePublished: Tue Apr 11 2023 16:19:23 GMT+0000 (Coordinated Universal Time)
 cuid: clgcgwugj000009mm0wd4c894
 slug: completion-of-googles-android-developer-course
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681229861610/0500fc61-ae62-4ac8-a7cc-c6c6be169e7d.jpeg
-tags: android-app-development, android, google
+tags: android, google
 
 ---
 
