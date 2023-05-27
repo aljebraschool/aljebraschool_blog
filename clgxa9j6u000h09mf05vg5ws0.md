@@ -20,7 +20,7 @@ Given the limitations I discovered in existing Yoruba language learning apps on 
 
 Aside from the collaboration of the programmer, linguist, and graphics designer to create an improved Yoruba language learning app, the project also aims to tap into the collective intelligence of its users to address potential issues in the field. In order to achieve this, the app will request input from its users on how to enhance Yoruba language learning in future updates. By utilizing the wisdom of the crowd, the app will be able to continuously improve and provide a better learning experience for its users.
 
-Considering that Android has the largest market share (71%) of smartphone operating systems, the development of this language learning app prioritized creating the best and most modern interface, easy-to-use navigation, and clear audio to cater to all users regardless of their level. The app is currently available for download on Google’s Play Store, and you can visit [www.aljebra.com](http://www.aljebra.com) to download and install it on your Android phone. 
+Considering that Android has the largest market share (71%) of smartphone operating systems, the development of this language learning app prioritized creating the best and most modern interface, easy-to-use navigation, and clear audio to cater to all users regardless of their level. The app is currently available for download on Google’s Play Store, and you can visit `https://tinyurl.com/akomolede` download and install it on your Android phone.
 
 We value your feedback, and any comments or suggestions on how to improve the app will be taken into account for future updates.
 
