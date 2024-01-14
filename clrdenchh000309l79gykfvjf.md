@@ -74,7 +74,7 @@ The first step in calculating the Gram matrix, will be to vectorize the values i
 
 Once the Gram matrices for the style image \\((A)\\) and the target image \\((T)\\)are computed, the style loss \\(L_{style}\\)​ is calculated by comparing these matrices. The style loss at a specific layer \\(l\\) is computed as the mean squared difference between the corresponding elements of the Gram matrices:
 
-$$L_{\text{style}}(A, G, l) = \frac{1}{4 \times N^2 \times M^2} \sum_{i,j} (G_{ij}^l - A_{ij}^l)^2$$
+$$L_{\text{style}}(A, T, l) = \frac{1}{4 \times N^2 \times M^2} \sum_{i,j} (T_{ij}^l - A_{ij}^l)^2$$
 
 Here, \\(N\\) is the number of feature maps, and \\(M\\) is the number of spatial positions in each feature map.
 
