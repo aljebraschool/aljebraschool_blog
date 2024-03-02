@@ -18,7 +18,7 @@ What the perceptron does is it plots the point (7, 6) on a graph to determine if
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709375165837/dd8c735c-af1b-475e-b74a-f0bcab2adc9c.png align="center")
 
-In broader terms, the perceptron can receive inputs \\(x_1, x_2, \\... x_n \\) and a bias for the node within the neural network, where the equation is given by\\(Wx + b = \sum_{i = 1}^n W_i X_i + b\\).
+In broader terms, the perceptron can receive inputs \\(x_1, x_2, \\... x_n \\) and a bias for the node within the neural network, where the equation is given by \\(Wx + b = \sum_{i = 1}^n W_i X_i + b\\).
 
 \\(Where:\\)
 
