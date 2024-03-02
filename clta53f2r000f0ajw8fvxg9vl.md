@@ -24,6 +24,8 @@ In broader terms, the perceptron can receive inputs \\(x_1, x_2, \\... x_n \\) a
 
 \\(W: \text{weight or slope}\\)
 
+\\(X: \text{input feature}\\)
+
 \\(b: \text{bias}\\)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709375460111/c4cbbf26-0b9f-4fec-a8a8-879ae724dd2b.png align="center")
