@@ -1,4 +1,13 @@
-# How to write basic Java applications - 02
+---
+title: "How to write basic Java applications - 02"
+seoDescription: "How to write a basic calculator in Java step-by-step approach"
+datePublished: Sun Feb 19 2023 15:27:18 GMT+0000 (Coordinated Universal Time)
+cuid: clebjlf4c00010aml2ziohk8a
+slug: how-to-write-basic-java-applications-02
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/npxXWgQ33ZQ/upload/fb18b6ff90a4b2bfd8d6da22eaff2fd9.jpeg
+tags: variables, programming-blogs, java, coding
+
+---
 
 *The* [*first episode*](https://aljebraschool.hashnode.dev/how-to-write-basic-java-applications) *of this series introduces us to the basic concept of Java programming and how to create basic Java programs.*
 
