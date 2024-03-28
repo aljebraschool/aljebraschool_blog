@@ -68,8 +68,9 @@ It's important to note that the `for` loop is typically used when the number of 
 
 Let's explore their demonstration below.
 
+*Question : Print the first 10 even numbers*
+
 ```python
-#print the first 10 even numbers
 
 #use for loop to produce number between 0 and 10 included
 for number in range(0, 11):
@@ -85,11 +86,9 @@ Within each iteration of the loop, a conditional structure is employed to verify
 
 Let's consider two more examples below.
 
-```python
-#write a program that will that will  request for two numbers from user
-#then compare these two numbers to implement all the logical operations 
-#like >, >=, <, <=, ==, and !=. and return the comparison at each loop
+*Question : write a program that will that will request for two numbers from user then compare these two numbers to implement all the logical operations like &gt;, &gt;=, &lt;, &lt;=, ==, and !=. and return the comparison at each loop*
 
+```python
 #request input from user 
 number1 = int(input('enter the first number: '))
 number2 = int(input('enter the second number: '))
@@ -136,14 +135,9 @@ A list is a data structure capable of storing elements of various data types. Th
 
 Let's consider some examples below.
 
-```python
-#Some investment advisors say that it's reasonable to expect a 7% 
-#return over the long term in the stock market. 
-#Assumming that you begin with $1000 and leave 
-#your money invested, calculate and display how 
-# much you'll have after 10, 20, and 30 years 
-#Use the following formula : a = p(1 + r)^n 
+*Question : Some investment advisors say that it's reasonable to expect a 7% #return over the long term in the stock market. Assumming that you begin with $1000 and leave your money invested, calculate and display how much you'll have after 10, 20, and 30 years #Use the following formula : a = p(1 + r)^n*
 
+```python
 number_of_years = [10, 20,30] #store the numerber of years in a list 
 principal = 1000 #initialize your first deposit
 rate = 0.07 #interest rate 
@@ -158,18 +152,14 @@ for year in number_of_years:
 
 The provided code utilized a list to store the given years, enabling iteration through them prior to their utilization in our calculation of amounts. Within each loop iteration, each number within the index is stored in the variable 'year' and subsequently used in the calculation.
 
+*Question : Implement a Python program that takes the number of rows and columns as input from the user and generates a multiplication table with the specified dimensions. The program should display the multiplication table without including row and column numbers, ensuring that each cell contains the correct product of the corresponding row and column numbers.*
+
 ```python
 my_list = [] #create an empty list to hold the dimension
 
 row = int(input('enter the number of rows: ')) #prompt user for row dimension
 col = int(input('enter the number of columns: ')) #prompt user for col dimension
 
-#Implement a Python program that takes the number of rows and 
-#columns as input from the user and generates a multiplication 
-#table with the specified dimensions. The program should display 
-#the multiplication table without including row and column numbers, 
-#ensuring that each cell contains the correct product of the 
-#corresponding row and column numbers.
 
 #a loop to create table based on user dimension
 for i in range(row):
@@ -215,14 +205,15 @@ In a dictionary, one value is designated as the "key" while the other is termed 
 
 Let's see this in action below!
 
-```python
-# Given a grade book containing the names and 
-#scores of each student in three, create a calculator 
-#that will be used to evaluate the following
-# 1. Total score of each student
-# 2. Average score of each student
-# 3. Average score of the whole class
+Question : Given a grade book containing the names and scores of each student in three, create a calculator #that will be used to evaluate the following
 
+1\. Total score of each student
+
+2\. Average score of each student
+
+3\. Average score of the whole class
+
+```python
 """crating a program that stores/compute and summarize 
 the grades of students in an exam"""
 
