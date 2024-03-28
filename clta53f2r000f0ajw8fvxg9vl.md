@@ -3,7 +3,7 @@ title: "Machine Learning"
 datePublished: Sat Mar 02 2024 13:49:13 GMT+0000 (Coordinated Universal Time)
 cuid: clta53f2r000f0ajw8fvxg9vl
 slug: machine-learning
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709370546597/1c540213-e8c9-46bf-ae4a-92fb0f047f9c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711662178735/bced2686-bf63-4574-8e59-470fa1f5a0d0.jpeg
 tags: artificial-intelligence, machine-learning, reinforcement-learning, supervised-learning, perceptron
 
 ---
