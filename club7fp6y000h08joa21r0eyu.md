@@ -64,7 +64,7 @@ Here's how the mathematical operations translate into Python
 
 ## Control Statements
 
-Control statements in programming regulate the sequence of events. They require validation before executing any action. Control can take on three forms: sequential, selection, and repetitive (iterative).
+Control statements in programming regulate the sequence of events. They require validation before executing the action that follows. Control can take on three forms: sequential, selection, and repetitive (iterative).
 
 Sequential control involves executing actions in the order they appear in the program. Selection statements utilize keywords such as `if`, `if-else` (or `elif`), and `else` to evaluate conditions before executing an action. In Python, the third form of control is the repetitive or iterative process, which employs keywords like `for` or `while` to validate conditions before executing actions within their bodies.
 
@@ -90,7 +90,7 @@ Within each iteration of the loop, a conditional structure is employed to verify
 
 Let's consider two more examples below.
 
-*Question : write a program that will that will request for two numbers from user then compare these two numbers to implement all the logical operations like &gt;, &gt;=, &lt;, &lt;=, ==, and !=. and return the comparison at each loop*
+*Question : write a program that will request for two numbers from user then compare these two numbers to implement all the logical operations like &gt;, &gt;=, &lt;, &lt;=, ==, and !=. and return the comparison at each loop*
 
 ```python
 #request input from user 
