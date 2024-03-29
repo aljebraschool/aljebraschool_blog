@@ -38,6 +38,8 @@ For instance, consider the assignment statement `x = 2`. Here, the variable `x` 
 
 ## Data Types
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711699230331/2060053a-2d6a-463f-abd7-19048b66f9ad.png align="center")
+
 Just like in math, programming deals with different types of numbers, including decimals, whole numbers, real numbers, and even complex numbers. Each piece of data stored in a variable has its own type. Python, known for its flexible nature, doesn't require you to declare the type of data explicitly in your code. However, Python recognizes basic data types like integers (for whole numbers), floats (for decimals), and booleans (which represent true/false values, often as 0 and 1).
 
 In Python, when you perform basic math operations like addition, subtraction, multiplication, and division, it's important that the types of the values you're operating on match. Just like in math class, Python follows the standard order of operations (BODMAS/BIDMAS), where calculations inside brackets are done first, followed by multiplication, division, addition, and subtraction. This principle is known as the order of precedence in Python.
