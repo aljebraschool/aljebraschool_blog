@@ -34,6 +34,8 @@ In mathematics, variables are typically represented by English alphabets such as
 
 For instance, consider the assignment statement `x = 2`. Here, the variable `x` is assigned the value '2'. It's crucial to note that the symbol '=' in programming is not an equation symbol but an assignment symbol, indicating that the value '2' is being stored in the variable `x`.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1711697388380/c9e2aa67-e7ea-4f1a-b0d9-abebb736fd7a.png align="center")
+
 ## Data Types
 
 Just like in math, programming deals with different types of numbers, including decimals, whole numbers, real numbers, and even complex numbers. Each piece of data stored in a variable has its own type. Python, known for its flexible nature, doesn't require you to declare the type of data explicitly in your code. However, Python recognizes basic data types like integers (for whole numbers), floats (for decimals), and booleans (which represent true/false values, often as 0 and 1).
