@@ -90,7 +90,7 @@ Within each iteration of the loop, a conditional structure is employed to verify
 
 Let's consider two more examples below.
 
-*Question : write a program that will request for two numbers from user then compare these two numbers to implement all the logical operations like &gt;, &gt;=, &lt;, &lt;=, ==, and !=. and return the comparison at each loop*
+*Question : write a program that will request for two numbers from user then compare these two numbers to implement all the logical operations like &gt;, &gt;=, &lt;, &lt;=, ==, and !=. and return the comparison at each stage.*
 
 ```python
 #request input from user 
@@ -209,7 +209,7 @@ In a dictionary, one value is designated as the "key" while the other is termed 
 
 Let's see this in action below!
 
-Question : Given a grade book containing the names and scores of each student in three, create a calculator #that will be used to evaluate the following
+Question : Given a grade book containing the names and scores of each student in three subjects, create a calculator #that will be used to evaluate the following
 
 1\. Total score of each student
 
