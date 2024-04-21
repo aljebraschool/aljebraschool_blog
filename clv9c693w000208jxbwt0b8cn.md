@@ -32,7 +32,7 @@ Let's begin by understanding the fundamentals of NumPy and Pandas and how they c
 
 In the [previous lesson](https://aljebraschool.hashnode.dev/python-for-machine-learning), we introduced one of the fundamental data structures in Python, called a List. Lists are commonly used for storing and manipulating data in machine learning tasks. Despite their flexibility in handling different data types, Lists have some drawbacks. They offer limited functionality, occupy significant space in computer memory, and can be time-consuming to process, especially with large datasets. Recognizing these limitations, there arose a need for more efficient data structures, leading to the development of NumPy.
 
-NumPy is a Python library designed to address the shortcomings of Lists. At its core, NumPy introduces the Array data structure. Unlike Lists, Arrays can only hold one type of data at a time. However, they are significantly more efficient, offering robust functionality while occupying less memory space.
+NumPy is a Python library designed to address the shortcomings of Lists. At its core, NumPy utilizes the Array data structure. Unlike Lists, Arrays can only hold one type of data at a time. However, they are significantly more efficient, offering robust functionality while occupying less memory space.
 
 NumPy is a fundamental package for numerical computing in Python, serving as the cornerstone of numerical and scientific computing. Its primary data structure, ndarray, is a powerful N-dimensional array object designed for fast and space-efficient data storage and manipulation.
 
@@ -302,6 +302,7 @@ grades_dict = {
 #create a pandas table using the dictionary 
 grades = pd.DataFrame(grades_dict)
 
+#accessing a particular column
 print(grades['wally'])
 
 #output
@@ -309,7 +310,7 @@ print(grades['wally'])
 #    0     78    
 #    1     19    
 #    2     100
-#    Name: wally, dtype: int64    
+#    Name: wally, dtype: int64
 ```
 
 According to the Pandas documentation, accessing DataFrame items with `[]` is not the most optimized approach, as it creates a copy of the data. This can lead to logical errors if you attempt to assign new values to the DataFrame. Therefore, it is highly recommended to use the `loc` and `iloc` attributes for accessing items in a DataFrame.
@@ -330,6 +331,7 @@ grades_dict = {
 #create a pandas table using the dictionary 
 grades = pd.DataFrame(grades_dict)
 
+#accessing a row 0
 print(grades.iloc[0])
 
 #output
@@ -337,7 +339,7 @@ print(grades.iloc[0])
 #tayo     89
 #sam      70
 #bola     90
-#Name: 0, dtype: int64    
+#Name: 0, dtype: int64
 ```
 
 Sliding can be used to obtain a portion of the table. Some of these are implemented below.
@@ -362,7 +364,7 @@ print(grades.iloc[0:2]) # this is used to get consecutive rows
 #output
 #      wally  tayo  sam  bola
 #0     78    89   70    90
-#1     19    48   17    86   
+#1     19    48   17    86
 ```
 
 ```python
@@ -385,7 +387,7 @@ print(grades.iloc[[0, 2]]) # this is used to get non-consecutive column
 #output
 #    wally  tayo  sam  bola
 #0     78    89   70    90
-#2    100    90   29   100  
+#2    100    90   29   100
 ```
 
 ```python
@@ -412,7 +414,6 @@ print(grades.iloc[0:2, :2])
 #  wally  tayo
 #0     78    89
 #1     19    48
-  
 ```
 
 Finally, you can obtain a quick summary of its main descriptive statistics using the `describe()` function, as shown below:
