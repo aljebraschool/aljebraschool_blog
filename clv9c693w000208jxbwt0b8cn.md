@@ -108,7 +108,7 @@ import numpy as np
 zero_array = np.zeros(5) #array of 5 zeros
 print(zero_array)
 #output [0. 0. 0. 0. 0.]
-one_array = np.zeros(5) #array of 5 ones
+one_array = np.ones(5) #array of 5 ones
 print(one_array)
 #output [1. 1. 1. 1. 1.]
 fill_array = np.full(5, 7) #array of 5 7, second arguemet is what to fill
