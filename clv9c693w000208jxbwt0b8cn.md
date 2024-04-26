@@ -345,7 +345,7 @@ print(grades.iloc[0])
 #Name: 0, dtype: int64
 ```
 
-Sliding can be used to obtain a portion of the table. Some of these are implemented below.
+Slicing can be used to obtain a portion of the table. Some of these are implemented below.
 
 ```python
 #import pandas
