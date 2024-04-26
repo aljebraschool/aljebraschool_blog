@@ -161,6 +161,9 @@ print(multi_dim_array.ndim)
 In this section, you will learn that NumPy allows you to easily perform element-wise addition, subtraction, multiplication, and division on both 1-D and multidimensional arrays. These operations are carried out using the corresponding mathematical symbols: `+`, `-`, and `*`. It's important to note that the behavior of these operations differs from that of Python lists. While adding Python lists would simply concatenate them, resulting in a longer list, attempting to subtract or multiply Python lists would raise an error.
 
 ```python
+#import numpy library
+import numpy as np
+
 arr_1 = np.array([2, 4, 6])
 arr_2 = np.array([1, 3, 5])
 
