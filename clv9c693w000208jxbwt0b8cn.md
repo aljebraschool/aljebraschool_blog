@@ -84,7 +84,7 @@ print(my_array)
 #output [1 3 5 7 9]
 ```
 
-The `linspace()` function allows us to create an array with a specified number of elements between a specified range, including both the starting and ending values. This is different from the `arange()` function mentioned earlier, as `linspace()` returns an array with a specified number of elements evenly spaced within the specified interval.Thank you for your patience!
+The `linspace()` function allows us to create an array with a specified number of elements between a specified range, including both the starting and ending values. This is different from the `arange()` function mentioned earlier, as `linspace()` returns an array with a specified number of elements evenly spaced within the specified interval.
 
 ```python
 #import numpy library
