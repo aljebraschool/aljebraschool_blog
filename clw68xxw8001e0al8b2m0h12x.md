@@ -138,7 +138,7 @@ For example, if the polynomial regression equation for this dataset is:
 
 $$\text{Ice Cream Sales} = 10 - 2(\text{Temperature}) + 0.5(\text{Temperature})^2$$
 
-This equation implies that the expected ice cream sales ydepend on the temperature according to a quadratic relationship.
+This equation implies that the expected ice cream sales y depend on the temperature according to a quadratic relationship.
 
 In this case, the coefficients tell us how the ice cream sales change with the temperature, taking into account both linear and quadratic effects.
 
