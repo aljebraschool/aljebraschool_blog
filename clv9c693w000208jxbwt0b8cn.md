@@ -1,5 +1,5 @@
 ---
-title: "Python for Machine Learning"
+title: "Mastering Python Machine Learning with Numpy and Pandas"
 datePublished: Sun Apr 21 2024 09:39:01 GMT+0000 (Coordinated Universal Time)
 cuid: clv9c693w000208jxbwt0b8cn
 slug: python-for-machine-learning-1
