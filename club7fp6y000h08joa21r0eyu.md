@@ -1,5 +1,5 @@
 ---
-title: "Python for Machine Learning"
+title: "Understanding Variables, Data Types, Control Statements, and Data Structures in Python for Machine Learning"
 datePublished: Thu Mar 28 2024 12:22:13 GMT+0000 (Coordinated Universal Time)
 cuid: club7fp6y000h08joa21r0eyu
 slug: python-for-machine-learning
