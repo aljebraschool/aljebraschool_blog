@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Understanding Machine Learning: A Beginner's Guide"
 datePublished: Sat Mar 02 2024 13:49:13 GMT+0000 (Coordinated Universal Time)
 cuid: clta53f2r000f0ajw8fvxg9vl
 slug: machine-learning
