@@ -1,5 +1,5 @@
 ---
-title: "Neural Style Transfer"
+title: "How Neural Style Transfer Works: Explained Simply"
 datePublished: Sun Jan 14 2024 11:20:33 GMT+0000 (Coordinated Universal Time)
 cuid: clrdenchh000309l79gykfvjf
 slug: neural-style-transfer
