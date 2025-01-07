@@ -27,7 +27,7 @@ To gain a clearer understanding of the Attention mechanism, let's examine these 
 2. "Money in the bank" – Sentence 2
     
 
-![](https://cohere.com/_next/image?url=https%3A%2F%2Fcohere-ai.ghost.io%2Fcontent%2Fimages%2F2024%2F07%2Fattention.png&w=3840&q=75 align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736249723840/fc884171-9b54-4863-93a8-182994bd253b.png align="center")
 
 How does a computer determine that "bank" in the first sentence refers to the side of a river, while in the second sentence it means a financial institution? To answer this, let's consider how humans make these distinctions. We read the entire sentence and examine the surrounding words to identify the context. In these examples, "river" and "money" provide the necessary clues. Computers achieve similar contextual understanding through the use of word embeddings.
 
