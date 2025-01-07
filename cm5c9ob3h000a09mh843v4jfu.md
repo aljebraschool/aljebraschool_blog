@@ -63,3 +63,7 @@ Sentence embeddings mark a significant leap in AI’s ability to process and und
 Whether it's powering smarter chatbots, improving search engines, or driving more accurate sentiment analysis, sentence embeddings are at the heart of many cutting-edge language applications. As AI continues to evolve, the ability to accurately represent full sentences will play a crucial role in making interactions between humans and machines more natural and meaningful.
 
 In the end, sentence embeddings are not just about numbers — they are about **capturing the essence of communication.**
+
+# References
+
+Cohere, "What Are Word and Sentence Embeddings?," LLM University. \[Online\]. Available: [https://cohere.com/llmu/deploy-streamlit](https://cohere.com/llmu/sentence-word-embeddings)
