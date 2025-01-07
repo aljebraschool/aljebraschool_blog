@@ -54,3 +54,7 @@ Word embeddings are more than just a technical tool — they represent a fundame
 From distinguishing between *puppies* and *dogs* to understanding the relationship between *calves* and *cows*, embeddings create a rich, multi-dimensional space where words are not just symbols but reflections of their context and features. This ability to translate human language into structured data is what powers modern advancements in search engines, translation models, and conversational AI.
 
 As AI continues to evolve, word embeddings will remain a cornerstone of natural language processing — a reminder that even the simplest words can reveal deep, underlying connections in the vast landscape of language.
+
+# References
+
+Cohere, "What Are Word and Sentence Embeddings?," LLM University. \[Online\]. Available: [https://cohere.com/llmu/sentence-word-embeddings](https://cohere.com/llmu/sentence-word-embeddings)
