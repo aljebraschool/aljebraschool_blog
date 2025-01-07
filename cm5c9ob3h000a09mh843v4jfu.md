@@ -66,4 +66,4 @@ In the end, sentence embeddings are not just about numbers — they are about **
 
 # References
 
-Cohere, "What Are Word and Sentence Embeddings?," LLM University. \[Online\]. Available: [https://cohere.com/llmu/deploy-streamlit](https://cohere.com/llmu/sentence-word-embeddings)
+Cohere, "What Are Word and Sentence Embeddings?," LLM University. \[Online\]. Available: [https://cohere.com/llmu/sentence-word-embeddings](https://cohere.com/llmu/sentence-word-embeddings)
