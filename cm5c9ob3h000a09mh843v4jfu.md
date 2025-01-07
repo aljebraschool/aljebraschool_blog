@@ -12,7 +12,7 @@ tags: nlp, embedding, vector-database
 
 ---
 
-**"Ever wonder how AI can summarize entire articles or detect sarcasm in a sentence?"** 🤔
+**Ever wonder how AI can summarize entire articles or detect sarcasm in a sentence?** 🤔
 
 It's not just about recognizing individual words — it’s about understanding the *whole sentence.*  
 This is where **sentence embeddings** come in.
