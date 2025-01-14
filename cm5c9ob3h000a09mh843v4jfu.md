@@ -67,3 +67,5 @@ In the end, sentence embeddings are not just about numbers — they are about **
 # References
 
 Cohere, "What Are Word and Sentence Embeddings?," LLM University. \[Online\]. Available: [https://cohere.com/llmu/sentence-word-embeddings](https://cohere.com/llmu/sentence-word-embeddings)
+
+Vaswani et al., "Attention is All You Need," arXiv. \[Online\]. Available: [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762).
