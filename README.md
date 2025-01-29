@@ -1,3 +1,4 @@
-# Java-fundamental-blog
-This series will teach you how to write core Java programs from the basic to intermediate levels with clear examples and practice questions on the most challenging topics.
-I will try to write on different topic at least once per week. 
+# aljebraschool-blog  
+I share my knowledge in a detailed and easy-to-understand manner, using code snippets, images, and simple English. My blog covers topics like Python, Java, Machine Learning, Deep Learning, Artificial Intelligence, Transformers, and more.
+
+You can check out the blog at [aljebra school blog](https://aljebraschool.hashnode.dev)
