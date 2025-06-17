@@ -60,7 +60,6 @@ That's exactly how Python dictionaries work—they're your digital phone book!
 
 ```python
 dictionary_name = {"key1": "value1", "key2": "value2"}
-
 ```
 
 * **Curly braces** `{}` create the dictionary.
@@ -79,7 +78,6 @@ print("My phone book:", phone_book)
 # Finding someone's number
 print("Mom's number:", phone_book["Mom"])
 print("Dad's number:", phone_book["Dad"])
-
 ```
 
 **What happens?**
@@ -101,7 +99,6 @@ Python creates a dictionary with 3 contacts, and you can find anyone's number by
     # Get pet's name
     pet_name = my_pet[______]  # What key gets the name?
     print("My pet's name is", pet_name)
-    
     ```
     
     *(Hint: Use the key names exactly as written!)*
@@ -115,7 +112,6 @@ Python creates a dictionary with 3 contacts, and you can find anyone's number by
     favorites[______] = "soccer"  # What key for favorite sport?
     
     print("My favorites:", favorites)
-    
     ```
     
     *(Hint: Think of a good key name for sports!)*
@@ -138,7 +134,6 @@ print("After adding English:", student_grades)
 # Adding more subjects
 student_grades["Art"] = 95
 print("All grades:", student_grades)
-
 ```
 
 ### **Changing Existing Items**
@@ -150,7 +145,6 @@ print("Original scores:", game_scores)
 # Beat your high score!
 game_scores["Level2"] = 180  # New high score!
 print("Updated scores:", game_scores)
-
 ```
 
 ---
@@ -171,7 +165,6 @@ print("Pencil count:", pencil_count)
 # Get all keys (names) and values (amounts)
 print("All items:", list(backpack_items.keys()))
 print("All amounts:", list(backpack_items.values()))
-
 ```
 
 ---
@@ -191,7 +184,6 @@ movies{"Horror"} = "Monster Movie"  # How do we add to dictionaries?
 # Check a movie
 if "Action" in movies:
     print("I love action movies!")
-
 ```
 
 *(Hint: Check the dictionary creation and how to add new items.)*
@@ -213,7 +205,6 @@ report_card["History"] = 92
 for subject in report_card:
     grade = report_card[subject]
     print(f"{subject}: {grade}")
-
 ```
 
 ### **B. Pet Profile**
@@ -231,7 +222,6 @@ pet_profile["color"] = "brown"
 print("Pet Profile:")
 for key in pet_profile:
     print(f"{key}: {pet_profile[key]}")
-
 ```
 
 ### **C. Simple Store**
@@ -246,7 +236,6 @@ if item in store_prices:
     print(f"{item} costs ${price}")
 else:
     print("Sorry, we don't have that!")
-
 ```
 
 ---
@@ -276,7 +265,6 @@ if search_name ___ contacts:  # (b) How do we check if key exists?
 print("All contacts:")
 for name ___ contacts:  # (c) How do we loop through keys?
     print(f"{name}: {contacts[name]}")
-
 ```
 
 *(Hints: (a) name, phone, (b) in, (c) in)*
@@ -303,68 +291,11 @@ add_score(game_scores, "Player2", 85)
 
 print("Player1 score:", get_score(game_scores, "Player1"))
 print("Player3 score:", get_score(game_scores, "Player3"))
-
 ```
 
 ---
 
-## 10\. Homework & Practice
-
-* **Task 1:** Create a `favorite_foods` dictionary with 3 friends' names and their favorite foods. Write code to ask for a friend's name and show their favorite food.
-    
-* **Task 2:** Make a simple "English-Spanish" translator dictionary with 5 English words as keys and Spanish words as values. Let users type English words to get translations.
-    
-* **Task 3:** Create a "Birthday Calendar" dictionary where keys are months and values are lists of friends with birthdays in that month.
-    
-
-### **Challenge: Fix the Shopping Cart**
-
-Debug this code:
-
-```python
-shopping_cart = ("milk": 2, "bread": 1, "eggs": 12)  # Error 1
-
-# Add new item
-shopping_cart."cheese" = 1  # Error 2
-
-# Check total items
-total = length(shopping_cart)  # Error 3
-print("Total different items:", total)
-
-```
-
----
-
-## 11\. Quiz Time!
-
-1. **Which symbol creates a dictionary in Python?**
-    
-    * A) `[]` B) `{}` C) `()`
-        
-2. **What connects keys to values in a dictionary?**
-    
-    * A) `=` B) `:` C) `>`
-        
-3. **Fill in the blank to get a value:**
-    
-    `value = my_dict[____]`
-    
-    * A) 0 B) "key\_name" C) 1
-        
-4. **True or False?**
-    
-    Dictionary keys must be unique (no duplicates).
-    
-    * A) True B) False
-        
-5. **Which method safely gets a value without errors?**
-    
-    * A) `dict[key]` B) `dict.get(key)` C) `dict.find(key)`
-        
-
----
-
-## 12\. Recap & Reflection
+## Recap & Reflection
 
 * **Dictionaries** store pairs of keys and values, like a phone book.
     
